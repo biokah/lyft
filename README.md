@@ -8,3 +8,5 @@
 6. Vincular los íconos en el footer para las redes sociales y crear el efecto para el hover. 
 
 https://biokah.github.io/lyft/
+
+NOTA: El maquetado no se hizo responsivo, por lo que en algunas pantallas puede deformarse el diseño. Se maquetó en una pantalla de 13.3 pulgadas y resolucuión de 1280 x 800.
